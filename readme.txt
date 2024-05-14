@@ -1,0 +1,1 @@
+APIs for getting Urdu Shayari by Poet names or other values by AI
